@@ -1,10 +1,12 @@
 ## About
 Name: Amanda Shayna Ahteck
+
 Email: ahteck (dot) a (at) northeastern.edu
+
 [portfolio (in process)](https://asahteck.myportfolio.com/).
 ### Affiliations:
 
-- MIT (Massachusetts Institute of Technology
+- MIT (Massachusetts Institute of Technology)
   - Fall 2019 - Spring 2023
     - Undergraduate student in Mechanical Engineering (Course 2A) with a concentration in Human-Computer Interaction
   - Fall 2023
