@@ -3,7 +3,7 @@ Name: Amanda Shayna Ahteck
 
 Email: ahteck (dot) a (at) northeastern.edu
 
-[portfolio (in process)](https://asahteck.myportfolio.com/).
+[portfolio (in progress)](https://asahteck.myportfolio.com/).
 ### Affiliations:
 
 - MIT (Massachusetts Institute of Technology)
@@ -18,3 +18,11 @@ Email: ahteck (dot) a (at) northeastern.edu
     - DREU participant
   - Fall 2024 -
     - PhD student in Khoury College of Computing
+
+## About My Advisor
+
+[Megan Hofmann](https://www.megan-hofmann.com/)
+Assistant Professor of Computer Science and Mechanical Engineering at the Khoury College of Computer Sciences at Northeastern University
+
+Lab: [Accessible Creative Technologies (ACT) Lab](https://actlab.sites.northeastern.edu/research/) which works on Medical Making, Design Tools for Non-Engineers, and Automatic Machine Knitting
+
