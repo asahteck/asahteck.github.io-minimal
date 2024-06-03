@@ -2,12 +2,3 @@ name: Amanda Shayna Ahteck
 description: Documenting Summer 2024 DREU
 logo: /assets/img/SAsquare.png
 theme: jekyll-theme-minimal
-
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.permalink }}">{{ post.title }}</a>
-      <p>{{ post.excerpt }}</p>
-    </li>
-  {% endfor %}
-</ul>
